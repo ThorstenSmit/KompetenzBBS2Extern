@@ -1,0 +1,16 @@
+/* 
+    Created on : 11.2016
+    Author     : T.Smit
+*/
+body{
+    background-color: buttontext;
+    color: #000;
+    font-size:12pt;
+}
+
+.maintable{
+    background-color: cornsilk;
+    /* offset-x | offset-y | blur-radius | spread-radius | color */
+    box-shadow: 0px 0px 15px #888888;
+    border: 1px solid #999;
+}

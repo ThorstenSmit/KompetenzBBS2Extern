@@ -1,0 +1,1 @@
+# KompetenzBBS2Extern

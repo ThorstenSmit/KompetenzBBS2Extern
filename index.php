@@ -12,4 +12,4 @@ require_once './includes/init.inc.php';
             
         </table>
     </body>
-</html>huhuNeuZuhn
+</html>
